@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Adam.
-- 👀 I’m interested in embedded systems, Hauptwerk, piano, organ, Jeeping, photography, my dog.
+- 👀 I’m interested in embedded systems, iOS dev, IoT, and Hauptwerk.
+- 🥳 Outside of tech, I am a professional musician (piano and organ) and enjoy photography, Jeeping, and my dog.
 - 👾 I'm comfortable in Swift, C/C++, Python, Java, and git.
-- 🤔 I usually use local git, but should probably use Github more.
-- 🌱 Learning is fun, and I'm working on SwiftUI, JavaScript, Node.JS, mongoDB.
+- 🤔 Maybe I should use Github more than local git.
+- 🌱 Learning is fun, and I'm working my way through The Odin Project.
 
 <!---
 waterproofpiano/waterproofpiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
