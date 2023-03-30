@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems, iOS dev, IoT, and Hauptwerk.
 - 🥳 Outside of tech, I am a professional musician (piano and organ) and enjoy photography, Jeeping, and my dog.
 - 👾 I'm comfortable in Swift, C/C++, Python, Java, and git.
-- 🤔 I probably should use Github more often.
+- 🤔 Migrating to GitHub.
 - 🌱 Learning is fun, and I'm working my way through The Odin Project.
 
 <!---
